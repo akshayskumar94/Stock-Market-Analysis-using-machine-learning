@@ -1,1 +1,1 @@
-# Stock-Market-Analysis-using-machine-learning
+# Stock-Market-Analysis-Using-Machine-Learning
